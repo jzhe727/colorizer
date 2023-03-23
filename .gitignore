@@ -3,4 +3,4 @@ mirflickr/
 .DS_Store
 .ipynb_checkpoints
 imagenet/
-
+model/
