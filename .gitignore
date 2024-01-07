@@ -1,7 +1,5 @@
 mirflickr/
-**/*.jpg
 .DS_Store
 .ipynb_checkpoints
 imagenet/
 model/
-Humans/
