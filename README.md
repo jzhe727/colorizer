@@ -21,7 +21,7 @@ These links below can be used to find more information about the project.
 
 The [demo notebook](https://github.com/jzhe727/colorizer/blob/main/demo.ipynb) can be found here, or run the notebook yourself on [Google Colab](https://colab.research.google.com/github/jzhe727/colorizer/blob/main/demo.ipynb).
 
-The [final paper](https://github.com/jzhe727/colorizer/blob/main/docs/Colorization.pdf) and [poster](https://github.com/jzhe727/colorizer/blob/main/docs/colorization_poster.drawio.pdf) can also be found in this repository.
+For more details abour the challenges and results, the [final paper](https://github.com/jzhe727/colorizer/blob/main/docs/Colorization.pdf) and [poster](https://github.com/jzhe727/colorizer/blob/main/docs/colorization_poster.drawio.pdf) can also be found in this repository.
 
 
 
