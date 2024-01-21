@@ -1,11 +1,15 @@
 # colorizer
 This project was written by John Zheng, Deliar Mohammadi, and Xinzhou Li. It primarily reproduces the results of *Image Colorization Algorithm Based on Deep Learning*, by Na Wang, Guo-Dong Chen, and Ying Tian, which can be found at https://www.mdpi.com/2073-8994/14/11/2295
 
-This is an image colorizer, which takes a black-and-white image and adds color to it. It uses the above architecture, CU-net, which is based on the standard U-net architecture with several max-pool layers replaced with dilated convolution.
+This is an image colorizer, which takes a black-and-white image and adds color to it. It uses the architecture described in the paper, CU-net, which is based on the standard U-net architecture with several max-pool layers replaced with dilated convolution.
+
+![CU-net](assets/CU-net.png?raw=true)
+
+Diagram showcasing CU-net taken from Wang et al. [2022].
 
 ### Example
 
-Original (left) and model output (right) when given a black-and-white version of the image.
+Original image (left) and model output (right) when given a black-and-white version of the image.
 
 ![Sample image](assets/sample.png?raw=true)
 
